@@ -1,74 +1,60 @@
-# Hair-oil <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Natural Hair Oil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #fffbea;
-      color: #333;
-    }
-    header {
-      background-color: #4CAF50;
-      padding: 20px;
-      color: white;
-      text-align: center;
-    }
-    .container {
-      padding: 30px;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .btn {
-      display: inline-block;
-      background: #4CAF50;
-      color: white;
-      padding: 10px 20px;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .btn:hover {
-      background: #45a049;
-    }
-  </style>
-</head>
-<body>
+Great — you want to upload your HTML file to GitHub and make your site live. Here's a simple step-by-step guide to do that:
 
-  <header>
-    <h1>Pure Herbal Hair Oil</h1>
-    <p>For Stronger, Healthier Hair</p>
-  </header>
 
-  <div class="container">
-    <div class="section">
-      <h2>About the Product</h2>
-      <p>Our 100% natural hair oil is crafted with herbal ingredients to nourish your scalp and strengthen your hair from root to tip.</p>
-    </div>
+---
 
-    <div class="section">
-      <h2>Benefits</h2>
-      <ul>
-        <li>Promotes hair growth</li>
-        <li>Reduces hair fall</li>
-        <li>Prevents dandruff</li>
-        <li>Adds shine and smoothness</li>
-      </ul>
-    </div>
+Step-by-Step: Upload HTML to GitHub and Make Live Site
 
-    <div class="section">
-      <h2>Key Ingredients</h2>
-      <p>Amla, Coconut Oil, Castor Oil, Neem, Bhringraj, Hibiscus</p>
-    </div>
+1. Create a GitHub Account (if you don’t have one)
 
-    <div class="section">
-      <a href="https://your-buy-link.com" class="btn">Buy Now</a>
-    </div>
-  </div>
+Go to https://github.com
 
-</body>
-</html>
+Sign up or log in
+
+
+2. Create a New Repository
+
+Click the "+" icon at the top right → "New repository"
+
+Name it something like: naturals-hair-oil
+
+Keep it Public
+
+Check the box “Add a README file”
+
+Click “Create repository”
+
+
+3. Upload Your HTML File
+
+In the repo, click on "Add file" → "Upload files"
+
+Upload your index.html file
+
+Click "Commit changes"
+
+
+4. Enable GitHub Pages
+
+Go to the "Settings" tab of your repo
+
+Scroll down to "Pages" (left sidebar)
+
+Under "Source", choose "Deploy from a branch"
+
+Select Branch: main and /root folder
+
+Click "Save"
+
+
+5. Your Site is Live!
+
+After a few seconds, GitHub will give you a link like:
+
+https://yourusername.github.io/naturals-hair-oil/
+
+
+---
+
+Want me to create the repo and upload it for you? Just send me your GitHub username (or I can generate everything and give you the files if you prefer Netlify instead).
+
